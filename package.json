@@ -1,0 +1,22 @@
+{
+  "name": "motion-keyboard",
+  "version": "1.0.0",
+  "description": "A proof of concept which uses the physical user input from the camera to simulate various keystrokes",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phadnisvinay30/motion-keyboard.git"
+  },
+  "author": "Vinay Phadnis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phadnisvinay30/motion-keyboard/issues"
+  },
+  "homepage": "https://github.com/phadnisvinay30/motion-keyboard#readme",
+  "dependencies": {
+    "@tensorflow-models/posenet": "^0.1.1"
+  }
+}
