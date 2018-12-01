@@ -2,6 +2,7 @@
 
 ## Introduction
 This is a virtual keyboard which simulates keystrokes by observing your movements!!
+Still in **Heavy construction**
 
 ## Installing Instructions
 Take a photo or download an image and place in the project's root directory as **sample.jpg**
